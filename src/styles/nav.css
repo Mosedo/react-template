@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&family=Roboto:wght@300&display=swap');
+
+.nav-link{
+    font-weight: bold;
+    color:black;
+}
+
+.with-span{
+    background-color:#1ac0ec;
+    font-size:0.7rem;
+}
+
+.tailwind-text{
+    color:#4f46e5;
+    font-size:1.0rem;
+    font-weight: bold;
+}
+
+.button-color{
+    background-color:#0f172a;
+}
+
+.tailwind-title{
+    font-weight: bolder; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+.code-section{
+    font-weight:bold;
+    color:#c5ced9;
+}
+
+.desc-text{
+    font-size: 1.2rem;
+}

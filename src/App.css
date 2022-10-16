@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 .App {
   text-align: center;
+}
+
+body,html{
+  font-family: 'Roboto', sans-serif;
+  background-image: url(assets/tailwing-bg.png);
 }
 
 .App-logo {
